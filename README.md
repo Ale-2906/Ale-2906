@@ -1,3 +1,4 @@
+
 ## Hola, Soy Michelle 💗: <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50" style="display: block; margin: 0 auto;">
  <img alt="GIF" src="Banner_Personal.png" width="80%" style="display: block; margin: 0 auto;">
 
@@ -39,3 +40,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-2906&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
 </div>
+
