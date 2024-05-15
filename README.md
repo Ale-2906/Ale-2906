@@ -3,6 +3,7 @@
  <br></br>
 <div align="center;">
     <p style="text-align: center;">Soy Ingeniera en software, tengo 20 años. Me gusta desarrollar páginas web, aunque también quisiera aprender un poco más sobre la programación y sobre la seguridad informática.</p>
+    <p>Conocer más: <a href="https://ale-2906.github.io/" target="_blank"><i class="fab fa-github"></i> GitHub</a></p>
 </div>
 <h2> Mis habilidades :woman_technologist:</h2>
 <h3>Herramientas</h3>
