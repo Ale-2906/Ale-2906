@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Michelle Tunja 💗</h1>
+<h1 align="center">✦ Hola, soy Michelle Tunja</h1>
 
 <p align="center">
   <img src="Banner_Personal.png" alt="Banner personal de Michelle Tunja" width="100%">
@@ -9,37 +9,37 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://ale-2906.github.io/">🚀 Portafolio</a></strong>
+  <a href="https://ale-2906.github.io/"><img src="https://img.shields.io/badge/Portafolio-5B3CA4?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" alt="Portafolio"></a> &nbsp; <a href="mailto:mtunja8609@uta.edu.ec"><img src="https://img.shields.io/badge/Contacto-14677A?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="Contacto"></a>
 </p>
 
-<h2>Proyectos destacados</h2>
+<h2>🚀 Proyectos destacados</h2>
 
 <table width="100%">
   <tbody>
   <tr>
 <td width="50%" valign="top">
       <a href="https://github.com/Ale-2906/Frontend_Mobile"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/inventsmart-movil.jpeg" width="400" alt="Captura de InventSmart móvil"></a><br>
-      <strong><a href="https://github.com/Ale-2906/Frontend_Mobile">InventSmart móvil</a></strong><br>
-      Inventario y compras en línea.
+      <h3>📱 InventSmart móvil</h3>
+      <p>Consulta el inventario y realiza compras en línea desde el móvil.</p>
+      <a href="https://github.com/Ale-2906/Frontend_Mobile"><img src="https://img.shields.io/badge/Ver%20repositorio-283B5D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver repositorio"></a>
     </td>
 <td width="50%" valign="top">
       <a href="https://gitlab.com/jean96gr/sisrec-frontend"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/eeasa.png" width="400" alt="Captura de SISREC · EEASA"></a><br>
-      <strong><a href="https://gitlab.com/jean96gr/sisrec-frontend">SISREC · EEASA</a></strong><br>
-      Colaboración en el frontend durante mi pasantía.
+      <h3>⚡ SISREC · EEASA</h3>
+      <p>Colaboré en el frontend para la EEASA durante mi pasantía.</p>
+      <a href="https://gitlab.com/jean96gr/sisrec-frontend"><img src="https://img.shields.io/badge/Ver%20repositorio-754074?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="Ver repositorio"></a>
     </td>
   </tr>
   </tbody>
 </table>
 
-<p><a href="https://ale-2906.github.io/paginas/proyectos.html">Ver todos los proyectos</a></p>
-
-<h2>Mis habilidades</h2>
+<h2>🛠️ Mis habilidades</h2>
 
 <table width="100%">
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <h3>Lenguajes</h3>
+        <h3>💻 Lenguajes</h3>
         <table>
           <tbody><tr>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="58" height="58" alt=""><br><sub>Java</sub></td>
@@ -49,7 +49,7 @@
         </table>
       </td>
       <td width="50%" valign="top">
-        <h3>Bases de datos</h3>
+        <h3>🗃️ Bases de datos</h3>
         <table>
           <tbody><tr>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" width="58" height="58" alt=""><br><sub>MySQL</sub></td>
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>Desarrollo web y backend</h3>
+        <h3>🌐 Desarrollo web y backend</h3>
         <table>
           <tbody><tr>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="58" height="58" alt=""><br><sub>HTML5</sub></td>
@@ -72,7 +72,7 @@
         </table>
       </td>
       <td width="50%" valign="top">
-        <h3>Desarrollo móvil</h3>
+        <h3>📱 Desarrollo móvil</h3>
         <table>
           <tbody><tr>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-original.svg" width="58" height="58" alt=""><br><sub>Android</sub></td>
@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>Sistemas y herramientas</h3>
+        <h3>⚙️ Sistemas y herramientas</h3>
         <table>
           <tbody><tr>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="58" height="58" alt=""><br><sub>Linux</sub></td>
@@ -93,7 +93,7 @@
         </table>
       </td>
       <td width="50%" valign="top">
-        <h3>Control de versiones</h3>
+        <h3>🔀 Control de versiones</h3>
         <table>
           <tbody><tr>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="58" height="58" alt=""><br><sub>Git</sub></td>
@@ -106,13 +106,14 @@
   </tbody>
 </table>
 
-<h2>Contacto</h2>
+<h2>📡 Contacto</h2>
 
-<p>
-  Ambato, Ecuador · <a href="mailto:mtunja8609@uta.edu.ec">Correo institucional</a> · <a href="https://github.com/Ale-2906">GitHub</a>
+<p align="center">📍 Ambato, Ecuador</p>
+<p align="center">
+  <a href="mailto:mtunja8609@uta.edu.ec"><img src="https://img.shields.io/badge/Correo%20institucional-14677A?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="Correo institucional"></a> &nbsp; <a href="https://github.com/Ale-2906"><img src="https://img.shields.io/badge/GitHub-403465?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 </p>
 
-<h2>Estadísticas de GitHub</h2>
+<h2>📊 Estadísticas de GitHub</h2>
 <p align="center">
     <a href="https://github.com/Ale-2906">
         <img height="180em" src="https://streak-stats.demolab.com?user=Ale-2906&theme=tokyonight&hide_border=true&border_radius="/>
