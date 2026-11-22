@@ -35,29 +35,9 @@
 
 <h2>🛠️ Mis habilidades</h2>
 
-<h3>💻 Lenguajes</h3>
-
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="58" height="58" alt="Java" title="Java"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="58" height="58" alt="Python" title="Python"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/r/r-original.svg" width="58" height="58" alt="R" title="R"><br><sub>Java · Python · R</sub></p>
-
-<h3>🗃️ Bases de datos</h3>
-
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" width="58" height="58" alt="MySQL" title="MySQL"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="58" height="58" alt="PostgreSQL" title="PostgreSQL"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/oracle/oracle-original.svg" width="58" height="58" alt="Oracle" title="Oracle"><br><sub>MySQL · PostgreSQL · Oracle</sub></p>
-
-<h3>🌐 Desarrollo web y backend</h3>
-
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="58" height="58" alt="HTML5" title="HTML5"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="58" height="58" alt="React" title="React"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/angular/angular-original.svg" width="58" height="58" alt="Angular" title="Angular"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/spring/spring-original.svg" width="58" height="58" alt="Spring Boot" title="Spring Boot"><br><sub>HTML5 · React · Angular · Spring Boot</sub></p>
-
-<h3>📱 Desarrollo móvil</h3>
-
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-original.svg" width="58" height="58" alt="Android" title="Android"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flutter/flutter-original.svg" width="58" height="58" alt="Flutter" title="Flutter"><br><sub>Android · Flutter</sub></p>
-
-<h3>⚙️ Sistemas y herramientas</h3>
-
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="58" height="58" alt="Linux" title="Linux"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="58" height="58" alt="Docker" title="Docker"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postman/postman-original.svg" width="58" height="58" alt="Postman" title="Postman"><br><sub>Linux · Docker · Postman</sub></p>
-
-<h3>🔀 Control de versiones</h3>
-
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="58" height="58" alt="Git" title="Git"> &nbsp; <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="58" height="58" alt="GitHub" title="GitHub"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitlab/gitlab-original.svg" width="58" height="58" alt="GitLab" title="GitLab"><br><sub>Git · GitHub · GitLab</sub></p>
+<p align="center">
+  <img src="assets/habilidades.webp" width="900" alt="Habilidades en dos columnas. 💻 Lenguajes — Java, Python, R. 🗃️ Bases de datos — MySQL, PostgreSQL, Oracle. 🌐 Desarrollo web y backend — HTML5, React, Angular, Spring Boot. 📱 Desarrollo móvil — Android, Flutter. ⚙️ Sistemas y herramientas — Linux, Docker, Postman. 🔀 Control de versiones — Git, GitHub, GitLab">
+</p>
 
 <h2>📡 Contacto</h2>
 
