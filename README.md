@@ -12,61 +12,97 @@
   <strong><a href="https://ale-2906.github.io/">🚀 Portafolio</a></strong>
 </p>
 
-<h2>Mis proyectos</h2>
+<h2>Proyectos destacados</h2>
 
 <table width="100%">
   <tbody>
   <tr>
-    <td width="20%" valign="top">
-      <a href="https://github.com/Ale-2906/SistemaContable"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/mysubs-smart.png" width="180" alt="Captura de Sistema Contable"></a><br>
-      <strong><a href="https://github.com/Ale-2906/SistemaContable">Sistema Contable</a></strong><br>
-      <sub>Aplicación para la gestión contable.</sub>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://github.com/Ale-2906/Frontend_Mobile"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/inventsmart-movil.jpeg" width="180" alt="Captura de InventSmart móvil"></a><br>
+<td width="50%" valign="top">
+      <a href="https://github.com/Ale-2906/Frontend_Mobile"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/inventsmart-movil.jpeg" width="400" alt="Captura de InventSmart móvil"></a><br>
       <strong><a href="https://github.com/Ale-2906/Frontend_Mobile">InventSmart móvil</a></strong><br>
-      <sub>Inventario y compras en línea.</sub>
+      Inventario y compras en línea.
     </td>
-    <td width="20%" valign="top">
-      <a href="https://github.com/Ale-2906/Inventario_Frontend"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/inventsmart-web.png" width="180" alt="Captura de InventSmart web"></a><br>
-      <strong><a href="https://github.com/Ale-2906/Inventario_Frontend">InventSmart web</a></strong><br>
-      <sub>Panel de inventario para administradores.</sub>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://gitlab.com/jean96gr/sisrec-frontend"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/eeasa.png" width="180" alt="Captura de SISREC · EEASA"></a><br>
+<td width="50%" valign="top">
+      <a href="https://gitlab.com/jean96gr/sisrec-frontend"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/eeasa.png" width="400" alt="Captura de SISREC · EEASA"></a><br>
       <strong><a href="https://gitlab.com/jean96gr/sisrec-frontend">SISREC · EEASA</a></strong><br>
-      <sub>Colaboración en el frontend durante mi pasantía.</sub>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://ale-2906.github.io/images/paginahtml.png"><img src="https://raw.githubusercontent.com/Ale-2906/Ale-2906.github.io/main/images/paginahtml.png" width="180" alt="Captura de CellWorld"></a><br>
-      <strong><a href="https://ale-2906.github.io/images/paginahtml.png">CellWorld</a></strong><br>
-      <sub>Catálogo web de celulares por marcas.</sub>
+      Colaboración en el frontend durante mi pasantía.
     </td>
   </tr>
   </tbody>
 </table>
 
+<p><a href="https://ale-2906.github.io/paginas/proyectos.html">Ver todos los proyectos</a></p>
+
 <h2>Mis habilidades</h2>
 
 <table width="100%">
   <tbody>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <strong>Frontend y móvil</strong><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="31" height="31" alt="HTML5" title="HTML5"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="31" height="31" alt="React" title="React"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/angular/angular-original.svg" width="31" height="31" alt="Angular" title="Angular"><br><sub>HTML5 · React · Angular</sub><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flutter/flutter-original.svg" width="31" height="31" alt="Flutter" title="Flutter"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-original.svg" width="31" height="31" alt="Android" title="Android"><br><sub>Flutter · Android</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <strong>Programación, backend y datos</strong><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="31" height="31" alt="Java" title="Java"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="31" height="31" alt="Python" title="Python"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/r/r-original.svg" width="31" height="31" alt="R" title="R"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/spring/spring-original.svg" width="31" height="31" alt="Spring Boot" title="Spring Boot"><br><sub>Java · Python · R · Spring Boot</sub><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" width="31" height="31" alt="MySQL" title="MySQL"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="31" height="31" alt="PostgreSQL" title="PostgreSQL"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/oracle/oracle-original.svg" width="31" height="31" alt="Oracle" title="Oracle"><br><sub>MySQL · PostgreSQL · Oracle</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <strong>Herramientas y control de versiones</strong><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="31" height="31" alt="Linux" title="Linux"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="31" height="31" alt="Docker" title="Docker"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postman/postman-original.svg" width="31" height="31" alt="Postman" title="Postman"><br><sub>Linux · Docker · Postman</sub><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="31" height="31" alt="Git" title="Git"> &nbsp; <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="31" height="31" alt="GitHub" title="GitHub"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitlab/gitlab-original.svg" width="31" height="31" alt="GitLab" title="GitLab"><br><sub>Git · GitHub · GitLab</sub>
-    </td>
-  </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Lenguajes</h3>
+        <table>
+          <tbody><tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="58" height="58" alt=""><br><sub>Java</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="58" height="58" alt=""><br><sub>Python</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/r/r-original.svg" width="58" height="58" alt=""><br><sub>R</sub></td>
+          </tr></tbody>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Bases de datos</h3>
+        <table>
+          <tbody><tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" width="58" height="58" alt=""><br><sub>MySQL</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="58" height="58" alt=""><br><sub>PostgreSQL</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/oracle/oracle-original.svg" width="58" height="58" alt=""><br><sub>Oracle</sub></td>
+          </tr></tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Desarrollo web y backend</h3>
+        <table>
+          <tbody><tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="58" height="58" alt=""><br><sub>HTML5</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="58" height="58" alt=""><br><sub>React</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/angular/angular-original.svg" width="58" height="58" alt=""><br><sub>Angular</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/spring/spring-original.svg" width="58" height="58" alt=""><br><sub>Spring Boot</sub></td>
+          </tr></tbody>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Desarrollo móvil</h3>
+        <table>
+          <tbody><tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-original.svg" width="58" height="58" alt=""><br><sub>Android</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flutter/flutter-original.svg" width="58" height="58" alt=""><br><sub>Flutter</sub></td>
+          </tr></tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Sistemas y herramientas</h3>
+        <table>
+          <tbody><tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="58" height="58" alt=""><br><sub>Linux</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="58" height="58" alt=""><br><sub>Docker</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postman/postman-original.svg" width="58" height="58" alt=""><br><sub>Postman</sub></td>
+          </tr></tbody>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Control de versiones</h3>
+        <table>
+          <tbody><tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="58" height="58" alt=""><br><sub>Git</sub></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="58" height="58" alt=""><br><sub>GitHub</sub></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitlab/gitlab-original.svg" width="58" height="58" alt=""><br><sub>GitLab</sub></td>
+          </tr></tbody>
+        </table>
+      </td>
+    </tr>
   </tbody>
 </table>
 
